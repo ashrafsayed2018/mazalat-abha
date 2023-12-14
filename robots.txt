@@ -1,0 +1,2 @@
+Sitemap: https://mzlatabha.com/sitemap.xml
+Sitemap: https://mzlatabha.com/sitemap-cat.xml
