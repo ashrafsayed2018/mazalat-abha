@@ -3,5 +3,3 @@ Disallow:/search
 User-agent: *
 Allow: /
 Sitemap: https://mazalat-abha.vercel.app/sitemap.xml
-Sitemap: https://mzlatabha.com/sitemap.xml
-Sitemap: https://mzlatabha.com/sitemap-cat.xml
